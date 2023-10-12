@@ -791,7 +791,7 @@ a:hover {
   color: #fff;
   font-weight: 600;
   font-size: 3rem;
-  font-family: initial;
+  font-family: fangsong !important;
   font-style: italic;
 }
 
